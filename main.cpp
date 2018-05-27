@@ -3,7 +3,7 @@
 #include <iostream>
 #include <cmath>
 
-double f(double x){
+double f(double x){ // the function you are taking the integral of
     return x*x+log(x);
 }
 
